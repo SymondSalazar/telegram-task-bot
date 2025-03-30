@@ -44,7 +44,7 @@ Sigue estos pasos para configurar y ejecutar el bot en tu entorno:
 - Puedes conversar con el bot, ya que integra un modelo de lenguaje para responder preguntas.
 
 ✅ **Recordatorios automáticos**
-- Te enviará notificaciones en Telegram según los tiempos que hayas configurado.
+- Te enviará mensajes notificandote de tus tareas en Telegram según los tiempos que hayas configurado.
 
 ## 🛠️ Tecnologías utilizadas
 - **Python**
